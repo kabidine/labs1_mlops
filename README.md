@@ -1,3 +1,3 @@
 # labs1_mlops
 Branch: develop
-Branch: dev-<med>
+Branch: dev-med
